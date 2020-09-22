@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="img_mascota">Imágen Mascota</string>
+    <string name="img_hueso_blanco">Imágen hueso blanco</string>
+    <string name="img_huesto_amarillo">Imágen hueso amarillo</string>
+    <string name="img_principal">Ruper</string>
+    <string name="contador">0</string>
+    <string name="siguiente">Siguiente</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/siguiente"
+        android:icon="@drawable/estrella"
+        android:onClick="irSiguiente"
+        android:title="@string/siguiente"
+        app:showAsAction="always" />
+</menu>
